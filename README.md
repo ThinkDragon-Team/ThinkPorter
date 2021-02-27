@@ -1,18 +1,15 @@
+# ThinkPorter
+A GSI maker based on ErfanGSIs without so much un-used changes.
+
 ## Requirements
     Linux or Mac
-
-## Released GSIs
-Download links: https://mirrors.lolinet.com/firmware/gsi/  
-XDA thread: https://forum.xda-developers.com/project-treble/trebleenabled-device-development/pie-erfan-gsi-ports-t3906486  
-Telegram group: https://t.me/ErfanGSIs  
-Telegram channel: https://t.me/ErfanGSI  
 
 ## How to use
 
 ### Download tools
 ```
-git clone --recurse-submodules https://github.com/erfanoabdi/ErfanGSIs.git
-cd ErfanGSIs
+git clone --recurse-submodules https://github.com/ThinkDragon-Team/ThinkPorter.git
+cd ThinkPorter
 ```
 
 ### For setting up requirements
